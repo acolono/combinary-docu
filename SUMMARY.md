@@ -3,6 +3,7 @@
 * [About](README.md)
 * [Facebook Service](facebook-service/README.md)
   * [Setup](facebook-service/setup.md)
+  * [Facebook App](facebook-service/facebook-app.md)
   * [Connect Account](facebook-service/connect-account.md)
   * [Developer Documentation](facebook-service/developer-documentation.md)
 * [Twitter Service](twitter-service.md)
