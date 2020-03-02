@@ -6,7 +6,7 @@ description: >-
 
 # About
 
-{% page-ref page="./" %}
+{% embed url="https://www.acolono.com/combinary" %}
 
 
 
