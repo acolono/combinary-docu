@@ -22,6 +22,6 @@ data-limit-char="500"
 
 ```
 <div class="combinary" data-url="https://netidee-stream.combinary.com/items.json" data-items="8" data-search="1" data-filter="1" data-limit-char="500"></div>
-<script src="https://www.combinary.com/widget.js" type="text/javascript"></script>
+<script src="unpkg.com/:package@:version/:widget.js" type="text/javascript"></script>
 ```
 
