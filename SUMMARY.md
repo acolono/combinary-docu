@@ -1,6 +1,9 @@
 # Table of contents
 
 * [About](README.md)
+
+## Services
+
 * [Facebook Service](facebook-service/README.md)
   * [Setup](facebook-service/setup.md)
   * [Facebook App](facebook-service/facebook-app.md)
