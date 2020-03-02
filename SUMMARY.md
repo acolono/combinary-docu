@@ -10,5 +10,7 @@
 * [Youtube Service](youtube-service/README.md)
   * [Create Youtube API Key](youtube-service/api-key.md)
 * [RSS Service](rss-service.md)
-* [Combinary Stream](combinary-stream.md)
+* [Combinary Stream](combinary-stream/README.md)
+  * [Drupal Module](combinary-stream/drupal-module.md)
+  * [Embed Code](combinary-stream/embed-code.md)
 
