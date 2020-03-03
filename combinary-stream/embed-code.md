@@ -27,3 +27,9 @@ Copy this two lines of code into your html to embed a combinary stream to your w
 <script src="https://unpkg.com/@acolono/combinary@1.0.2/widget.min.js" type="text/javascript"></script>
 ```
 
+Online Demo:
+
+{% embed url="https://codepen.io/Grienauer/pen/mdJMRoY" %}
+
+
+
