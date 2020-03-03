@@ -20,6 +20,8 @@ data-limit-char="500"
 
 ### Embed Code
 
+Copy this two lines of code into your html to embed a combinary stream to your website:
+
 ```
 <div class="combinary" data-url="https://netidee-stream.combinary.com/items.json" data-items="8" data-search="1" data-filter="1" data-limit-char="500"></div>
 <script src="unpkg.com/:package@:version/:widget.js" type="text/javascript"></script>
