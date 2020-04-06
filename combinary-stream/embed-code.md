@@ -20,12 +20,17 @@ data-limit-char="500"
 
 ### Embed Code
 
-Copy this two lines of code into your html to embed a combinary stream to your website:
+Copy these three lines of code into your html to embed a combinary stream to your website:
 
 ```
 <div class="combinary" data-url="https://netidee-stream.combinary.com/items.json" data-items="40" data-search="1" data-filter="1" data-limit-char="500"></div>
-<script src="https://unpkg.com/@acolono/combinary@1.0.2/widget.min.js" type="text/javascript"></script>
+<link href="https://unpkg.com/@acolono/combinary/widget.css" media="all" rel="stylesheet" type="text/css" />
+<script src="https://unpkg.com/@acolono/combinary/widget.min.js" type="text/javascript"></script>
 ```
+
+Please note, you can update CSS line with your own CSS file, if you like to have own layout.   
+As a good starting point - you could use our CSS or SCSS  
+[https://www.npmjs.com/package/@acolono/combinary](https://www.npmjs.com/package/@acolono/combinary)
 
 Online Demo:
 
